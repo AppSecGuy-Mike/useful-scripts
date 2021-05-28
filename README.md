@@ -1,1 +1,1 @@
-# usefule-scrits
+# useful scripts
